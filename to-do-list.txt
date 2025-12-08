@@ -1,0 +1,6 @@
+wakeup
+workout
+traning
+office
+home
+
